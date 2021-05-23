@@ -1,5 +1,5 @@
 {
-  "name": "serverless-lerna-yarn-starter",
+  "name": "serverless-typescript-starter",
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
@@ -10,5 +10,10 @@
   ],
   "devDependencies": {
     "lerna": "^3.22.1"
+  },
+  "dependencies": {
+    "@middy/core": "^2.2.0",
+    "aws-lambda": "^1.0.6",
+    "tslint": "^6.1.3"
   }
 }

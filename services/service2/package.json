@@ -8,5 +8,8 @@
   },
   "devDependencies": {
     "serverless-bundle": "^1.9.0"
+  },
+  "dependencies": {
+    "typescript": "^4.2.4"
   }
 }

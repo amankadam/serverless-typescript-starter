@@ -1,4 +1,4 @@
-service: service2
+service: cron-service
 useDotenv: true
 plugins:
   - serverless-dotenv-plugin  
